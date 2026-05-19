@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="VINDICATES MSK">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0b1525"/>
+      <stop offset="100%" stop-color="#16223a"/>
+    </linearGradient>
+    <clipPath id="r"><rect x="0" y="0" width="512" height="512" rx="112" ry="112"/></clipPath>
+  </defs>
+  <g clip-path="url(#r)">
+    <rect width="512" height="512" fill="url(#g)"/>
+    <rect x="40" y="436" width="216" height="22" fill="#2f5d50"/>
+    <rect x="256" y="436" width="216" height="22" fill="#b3261e"/>
+    <text x="256" y="332" text-anchor="middle"
+          font-family="Iowan Old Style, Charter, Georgia, Times New Roman, serif"
+          font-weight="700" font-size="360" fill="#f3eedb">V</text>
+  </g>
+</svg>

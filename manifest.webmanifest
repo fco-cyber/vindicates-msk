@@ -1,0 +1,42 @@
+{
+  "name": "VINDICATES — MSK Differential Reference",
+  "short_name": "VINDICATES",
+  "description": "Offline musculoskeletal differential diagnosis reference using the VINDICATES mnemonic. For osteopathic, physiotherapy and MSK clinicians.",
+  "id": "/vindicates-msk/",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui", "browser"],
+  "orientation": "any",
+  "background_color": "#0b1525",
+  "theme_color": "#0b1525",
+  "lang": "en",
+  "dir": "ltr",
+  "categories": ["medical", "health", "education", "reference"],
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
